@@ -14,6 +14,7 @@ public class CrudApplication {
 		logger.info("Logger started {}","Now");
 		logger.info("Git started {}","Now");
 		logger.info("Git started {}","Now");
+		logger.info("Git started {}","Now");
 		SpringApplication.run(CrudApplication.class, args);
 	}
 
