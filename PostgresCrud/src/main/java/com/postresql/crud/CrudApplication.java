@@ -12,6 +12,7 @@ public class CrudApplication {
 	public static void main(String[] args) {
 		System.out.println("System out ");
 		logger.info("Logger started {}","Now");
+		logger.info("Git started {}","Now");
 		SpringApplication.run(CrudApplication.class, args);
 	}
 
